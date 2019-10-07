@@ -32,3 +32,14 @@ You must have npm installed globally in order to use this build environment.
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-resume/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/resume/).
 
+Todo
+Update:
+about: must contain short descr (done)
+
+
+experience
+projects and hackatons
+education
+skills
+interests
+awards and certs
